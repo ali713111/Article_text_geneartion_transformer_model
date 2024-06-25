@@ -1,0 +1,1 @@
+this is a pretrained chatbot model same works like gpt-2 model. it is trained on two type of text merged into one file. the working mechanism behind this model is that it will give answer and write article on specific topic on which it is trained.
